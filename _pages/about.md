@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Hi there! I am a robotics researcher at MIT [LIDS](https://lids.mit.edu/) and the [AeroAstro department](https://aeroastro.mit.edu/).
-I obtained my PhD in autonomous systems in August 2023, and I was very fortunate to be advised by [Prof. Jonathan How](https://aeroastro.mit.edu/people/jonathan-p-how/). 
-
-
 I am passionate about developing **scalable and trustworthy multi-agent systems** that operate robustly over long periods of time without human intervention.
 My current research applies tools from nonlinear and distributed optimization, graph theory, differential geometry, and machine learning to develop principled **algorithms with theoretical guarantees** and **real-world systems** for multi-agent perception and navigation.
 
+I received my PhD degree in Aeronautics and Astronautics from MIT in August 2023, with a focus on autonomous systems.
+During my PhD, I was very fortunate to be advised by [Prof. Jonathan How](https://aeroastro.mit.edu/people/jonathan-p-how/). 
+Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from UC Berkeley.
 
 Recent News
 ------
