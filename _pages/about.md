@@ -31,3 +31,16 @@ Selected Awards and Honors
 * *Honorable Mention for IEEE RA-L Best Paper Award, 2020.*
 
 
+Recent Videos
+------
+<div class="row">
+    <div class="col-sm-6" align="center">
+        <h5 class="section-heading">Resilient and Distributed Multi-Robot Visual SLAM (2023)</h5>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7yYMRNMdKjY?si=oOyvCRjGUPdOPGiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm-6" align="center">
+        <h5 class="section-heading">Rotation Averaging via Fast Laplacian Solvers (2023)</h5>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/egebyKrft8g?si=Nw3COTs1j7LMqN3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+
