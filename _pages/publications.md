@@ -10,7 +10,7 @@ For a complete list of my publications, please visit my [Google Scholar profile]
 
 {% include base_path %}
 
-{% assign show_preprints = true %}
+{% assign show_preprints = false %}
 {% if show_preprints %}
 Preprints
 ------
