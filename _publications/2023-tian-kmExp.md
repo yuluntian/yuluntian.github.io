@@ -16,7 +16,7 @@ month: ""
 address: ""
 type: "conference"
 school: "N/A"
-awards: ""
+awards: "Honorable Mention for 2023 MIT Open Data Prize"
 notes: ""
 include_on_website: true
 image: "2023-tian-kmExp-1.jpg"
