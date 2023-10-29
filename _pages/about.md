@@ -25,10 +25,10 @@ Selected News
 
 Selected Awards and Honors
 ------
-* *IEEE T-RO King-Sun Fu Memorial Best Paper Award, 2022.*
-* *IEEE RA-L Outstanding Reviewer Award, 2023.*
-* *Honorable Mention for IEEE T-RO King-Sun Fu Memorial Best Paper Award, 2021.*
-* *Honorable Mention for IEEE RA-L Best Paper Award, 2020.*
+* **Best Paper Award**, *IEEE Transactions on Robotics (T-RO), 2022.* 
+* **Outstanding Reviewer**, *IEEE Robotics and Automation Letters (RA-L), 2023.*
+* **Honorable Mention for Best Paper**, *IEEE Transactions on Robotics (T-RO), 2021.*
+* **Honorable Mention for Best Paper**, *IEEE Robotics and Automation Letters (RA-L), 2020.*
 
 
 Recent Videos
