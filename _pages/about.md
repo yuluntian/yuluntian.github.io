@@ -8,14 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:blue"> I will be joining the Robotics Department at the University of Michigan as an Assistant Professor in Fall 2025! Stay tuned for the launch of my research group. </span>
+<style>
+.blue {
+  color: blue;
+}
+</style>
+
+I will be joining the Robotics Department at the University of Michigan as an Assistant Professor in Fall 2025! 
+{: .blue}
+
+**To prospective students:** I am actively seeking highly motivated and talented PhD students starting in Fall 2025. 
+If any of the following topics excite you:
+{: .blue}
+* Optimization and learning for state estimation and navigation
+* Spatial perception with learned representations
+* Distributed autonomy for multi-agent systems
+{: .blue}
+Please apply to [Michigan Robotics](https://robotics.umich.edu/academics/graduate/admissions/) and also reach out to me via [email](mailto:yulunt@umich.edu). Let's have a chat!
+{: .blue}
 
 I am passionate about developing **scalable and trustworthy multi-agent systems** that operate robustly over long periods of time without human intervention.
 My current research applies tools from nonlinear and distributed optimization, graph theory, differential geometry, and machine learning to develop principled **algorithms with theoretical guarantees** and **real-world systems** for multi-agent perception and navigation.
 
-I am a postdoc at UCSD working with [Prof. Nikolay Atanasov](https://natanaso.github.io) starting August 2024. 
-Previously, I was a postdoc at MIT [LIDS](https://lids.mit.edu/) and the [AeroAstro department](https://aeroastro.mit.edu/).
-I received my PhD degree in Aeronautics and Astronautics from MIT in August 2023, with a focus on autonomous systems.
+I am a postdoc at UCSD working with [Prof. Nikolay Atanasov](https://natanaso.github.io). 
+Previously, I was a postdoc at MIT [LIDS](https://lids.mit.edu/) and [AeroAstro](https://aeroastro.mit.edu/).
+I received my PhD degree from MIT AeroAstro in August 2023, with a focus on autonomous systems.
 During my PhD, I was very fortunate to be advised by [Prof. Jonathan How](https://aeroastro.mit.edu/people/jonathan-p-how/). 
 Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from UC Berkeley.
 
