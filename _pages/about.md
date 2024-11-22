@@ -31,7 +31,7 @@ Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from 
 
 Selected News
 ------
-* **[11/2024]** I gave a guest lecture about collaborative perception at MIT's [VNAV course](https://vnav.mit.edu/).
+* **[11/2024]** I gave a guest lecture on collaborative perception ([slides](https://www.dropbox.com/scl/fi/vsxcoileqlacnzcguuecl/vnav-guest-lecture-nov-2024.pdf?rlkey=u76kifgjxahxgcng6fj8sivvi&st=obb665dw&dl=0)) at MIT's [VNAV course](https://vnav.mit.edu/). 
 * **[08/2024]** I started my postdoc at UCSD working with Prof. Nikolay Atanasov.
 * **[06/2024]** Very excited to become an Associate Editor for the International Journal of Robotics Research (IJRR).
 * **[10/2023]** New paper on rotation averaging and Laplacian solvers accepted at IEEE T-RO. Check out the [paper](https://arxiv.org/pdf/2210.05020.pdf) and [related talk](https://youtu.be/egebyKrft8g?si=2IzRTtvMPoKrLCF3)!
