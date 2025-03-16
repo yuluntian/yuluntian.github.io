@@ -31,6 +31,7 @@ Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from 
 
 Selected News
 ------
+* **[03/2025]** I am serving as an Associate Editor for IROS 2025.
 * **[12/2024]** My [PhD thesis](https://dspace.mit.edu/handle/1721.1/152675) received the 2024 best dissertation award from the IEEE RAS TC for Multi-Robot Systems. A big thank you to the [MRS TC](https://www.multirobotsystems.org/) for promoting research and building community in this field!
 * **[11/2024]** I gave a guest lecture on collaborative perception ([slides](https://www.dropbox.com/scl/fi/vsxcoileqlacnzcguuecl/vnav-guest-lecture-nov-2024.pdf?rlkey=u76kifgjxahxgcng6fj8sivvi&st=obb665dw&dl=0)) at MIT 16.485: Visual Navigation for Autonomous Vehicles ([VNAV](https://vnav.mit.edu/)). 
 * **[08/2024]** I started my postdoc at UCSD working with Prof. Nikolay Atanasov.
