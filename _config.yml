@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yulun Tian"
   avatar           : "yulun_profile_2024_2.jpg"
-  bio              : "Postdoc at UCSD, incoming faculty at Michigan Robotics"
+  bio              : "Assistant Professor, Michigan Robotics"
   location         : #"Cambridge, MA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=r-v0cusAAAAJ&hl=en&oi=ao"
-  email            : "yulun@mit.edu"
+  email            : "yulunt@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
