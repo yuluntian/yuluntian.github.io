@@ -25,6 +25,7 @@ Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from 
 
 Selected News
 ------
+* **[Aug. 2025]** I joined [Michigan Robotics](https://robotics.umich.edu/) as an Assistant Professor!
 * **[Jun. 2025]** Two papers, [MISO](https://existentialrobotics.org/miso_rss25/) and [ROMAN](https://acl.mit.edu/roman/), were presented at RSS 2025.
 * **[Mar. 2025]** I served as an Associate Editor for IROS 2025.
 * **[Dec. 2024]** My [PhD thesis](https://dspace.mit.edu/handle/1721.1/152675) received the 2024 best dissertation award from the IEEE RAS TC for Multi-Robot Systems. A big thank you to the [MRS TC](https://www.multirobotsystems.org/) for promoting research and building community in this field!

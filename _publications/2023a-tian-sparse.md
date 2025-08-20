@@ -2,7 +2,7 @@
 title: "Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation"
 authors: "Yulun Tian, Jonathan How"
 venue: "IEEE Transactions on Robotics (T-RO)"
-year: "2023 (To Appear)"
+year: "2023"
 status: "journal"
 arxiv: "https://arxiv.org/abs/2210.05020"
 official_link: ""
