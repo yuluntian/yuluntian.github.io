@@ -23,28 +23,12 @@ Preprints
   {% endif %}
 {% endfor %}
 
-Journal Articles
-------
 {% for post in site.publications reversed %}
-  {% if post.status == "journal"%}
-    {% unless post.type contains "thesis" %}
-      {% if post.include_on_website %}
-        {% include publication-single.html %}
-      {% endif %}
-    {% endunless %}
-  {% endif %}
-{% endfor %}
-
-Conference Papers
-------
-{% for post in site.publications reversed %}
-  {% if post.status == "conference"%}
-    {% unless post.type contains "thesis" %}
-      {% if post.include_on_website %}
-        {% include publication-single.html %}
-      {% endif %}
-    {% endunless %}
-  {% endif %}
+  {% unless post.type contains "thesis" %}
+    {% if post.include_on_website %}
+      {% include publication-single.html %}
+    {% endif %}
+  {% endunless %}
 {% endfor %}
 
 <!-- Theses

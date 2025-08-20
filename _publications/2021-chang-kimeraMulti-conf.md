@@ -17,7 +17,7 @@ type: "conference"
 school: "N/A"
 awards: ""
 notes: ""
-include_on_website: true
+include_on_website: false
 image: "2021-chang-kimeraMulti-conf-2.png"
 links_to_code: "https://github.com/MIT-SPARK/Kimera-Multi"
 links_to_video: "https://youtu.be/G8PktlQ82uw?si=q4eouR-V5aKRtUxl"

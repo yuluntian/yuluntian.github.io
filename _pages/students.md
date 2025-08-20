@@ -26,7 +26,7 @@ redirect_from:
 </style>
 
 
-**To prospective students:** I am actively seeking highly motivated and talented PhD students starting in Fall 2025. 
+**To prospective students:** I am seeking highly motivated and talented PhD students. 
 If any of the following topics excite you:
 {: .blue}
 * Optimization and learning for state estimation and navigation
