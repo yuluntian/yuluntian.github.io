@@ -16,7 +16,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Robotics Department](https://robotics.umich.edu/) at the [University of Michigan](https://umich.edu/), where I direct the [Scalable Spatial Intelligence Lab](https://ssi.robotics.umich.edu/).
 I am passionate about developing **scalable and trustworthy autonomy** that operates robustly over long periods of time without human intervention.
-My current research applies tools from nonlinear and distributed optimization, machine learning, and graph theory to develop principled **algorithms with theoretical guarantees** and **real-world systems** for spatial perception, navigation, and multi-agent systems.
+My research applies tools from nonlinear and distributed optimization, machine learning, and graph theory to develop principled **algorithms with theoretical guarantees** and **real-world systems** for spatial perception, navigation, and multi-agent systems.
 
 Before joining Michigan Robotics, I was a Postdoctoral Scholar at the UC San Diego Contextual Robotics Institute (CRI) and the MIT Laboratory for Information and Decision Systems (LIDS).
 I received my PhD degree from MIT AeroAstro in August 2023, with a focus on autonomous systems.
