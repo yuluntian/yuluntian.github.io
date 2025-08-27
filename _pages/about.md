@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-I am an Assistant Professor in the [Robotics Department](https://robotics.umich.edu/) at the [University of Michigan](https://umich.edu/), where I direct the Scalable Spatial Intelligence Lab.
+I am an Assistant Professor in the [Robotics Department](https://robotics.umich.edu/) at the [University of Michigan](https://umich.edu/), where I direct the [Scalable Spatial Intelligence Lab](https://ssi.robotics.umich.edu/).
 I am passionate about developing **scalable and trustworthy autonomy** that operates robustly over long periods of time without human intervention.
 My current research applies tools from nonlinear and distributed optimization, machine learning, and graph theory to develop principled **algorithms with theoretical guarantees** and **real-world systems** for spatial perception, navigation, and multi-agent systems.
 
@@ -25,7 +25,7 @@ Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from 
 
 Selected News
 ------
-* **[Aug. 2025]** I joined [Michigan Robotics](https://robotics.umich.edu/) as an Assistant Professor!
+* **[Aug. 2025]** The Scalable Spatial Intelligence Lab officially launched at Michigan Robotics. Check out our [website](https://ssi.robotics.umich.edu/)!
 * **[Jun. 2025]** Two papers, [MISO](https://existentialrobotics.org/miso_rss25/) and [ROMAN](https://acl.mit.edu/roman/), were presented at RSS 2025.
 * **[Mar. 2025]** I served as an Associate Editor for IROS 2025.
 * **[Dec. 2024]** My [PhD thesis](https://dspace.mit.edu/handle/1721.1/152675) received the 2024 best dissertation award from the IEEE RAS TC for Multi-Robot Systems. A big thank you to the [MRS TC](https://www.multirobotsystems.org/) for promoting research and building community in this field!
