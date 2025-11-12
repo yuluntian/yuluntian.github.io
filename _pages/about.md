@@ -23,6 +23,8 @@ I received my PhD degree from MIT AeroAstro in August 2023, with a focus on auto
 During my PhD, I was very fortunate to be advised by Prof. Jonathan How.
 Prior to PhD, I received my SM degree (2019) from MIT and BA degree (2017) from UC Berkeley.
 
+<span class="blue">**Prospective Students**: if you would like to get involved with my group's research, please [check this link](https://ssi.robotics.umich.edu/join-us) for currently open opportunities!</span>
+
 Selected News
 ------
 * **[Aug. 2025]** The Scalable Spatial Intelligence Lab officially launched at Michigan Robotics. Check out our [website](https://ssi.robotics.umich.edu/)!
